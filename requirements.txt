@@ -5,4 +5,6 @@ requests
 scikit-learn
 catboost
 xgboost
+dill
+dataclasses
 #-e .
